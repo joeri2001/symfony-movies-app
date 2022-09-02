@@ -1,1 +1,6 @@
-### crud application with symfony
+### movies app made in symfony
+
+Technologies:
+- PHP
+- Symfony
+- Twig
