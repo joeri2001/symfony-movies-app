@@ -3,5 +3,5 @@ info:
 
 .PHONY: startBackend
 
-startBackend:
-    symfony server:start -d
+dev:
+    make backend cmd="symfony server:start -d"
